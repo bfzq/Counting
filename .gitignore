@@ -31,3 +31,4 @@
 *.out
 *.app
 bld
+.DS_Store
